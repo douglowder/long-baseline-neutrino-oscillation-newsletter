@@ -1,0 +1,109 @@
+Gr�ce aux neutrinos du soleil, EDF analyse le manteau neigeux
+LE MONDE | 24.02.04
+
+Orlu (Ari�ge)de notre envoy�e sp�ciale
+
+Sur le versant pyr�n�en enneig�, un m�t de six m�tres, bard� de capteurs
+ultrasons et thermiques, transperce la neige. Son nom : NRC, nivom�tre �
+rayonnement cosmique. Depuis octobre 2003, ce dr�le d'appareil, plant� � 2
+500 m�tres d'altitude, surplombe la centrale hydro�lectrique d'Orlu (Ari�ge)
+et joue un r�le central dans la gestion de l'�lectricit�. Il permet � EDF
+d'estimer au plus juste le remplissage des retenues d'eau et donc d'�valuer
+ses r�serves hydro�lectriques.
+
+Le principe du nivom�tre est simple : "Il calcule la teneur en eau du
+manteau neigeux pour pr�voir quelles quantit�s d'eau rejoindront les
+barrages au moment de la fonte des neiges", explique Guy Torrent, assistant
+technique � la direction technique g�n�rale d'EDF. Auparavant, la teneur en
+eau �tait calcul�e gr�ce � un �metteur de rayons gamma. Mais la
+radioactivit� du c�sium 137 produisant ces derniers d�passait � peine celle
+de l'�mission naturelle, ce qui fragilisait la mesure.
+
+Ce sont d�sormais les neutrinos, les particules �mises par le soleil, qui
+permettent de calculer cette teneur en eau. Une partie de ces rayons sont
+absorb�s par les mol�cules d'eau. Un capteur de type Geiger-Muller d'un
+demi-m�tre carr� de surface enregistre le rayonnement cosmique non absorb�
+et d�termine ainsi la quantit� d'eau travers�e par les rayons du soleil. La
+neige d'Orlu contient actuellement "410 litres d'eau par m�tre cube",
+indique Guy Torrent. Le nivom�tre fournit �galement des indications sur la
+densit� et la hauteur de neige et permet de pr�voir la fonte. "Lorsque la
+densit� mesur�e atteint 0,55, on sait que le processus est irr�versible et
+que la neige va fondre", explique-t-il.
+
+AUTOMATIQUES ET AUTONOMES
+
+Apr�s deux prototypes install�s en 1997, quarante de ces nivom�tres nouvelle
+g�n�ration ont �t� mis en place dans les massifs montagneux fran�ais.
+Compl�tement automatiques et autonomes gr�ce � des capteurs solaires, ils
+permettent de recueillir des donn�es, pr�cises � 95 %, dans des lieux
+difficiles d'acc�s. Enregistr�es en continu, elles sont transmises par
+satellite ou par relais t�l�phonique vers le centre de pr�visions de
+Toulouse.
+
+Coupl�es avec les mesures de d�bit des rivi�res et les donn�es des
+pluviom�tres, elles permettent de pr�voir, au plus juste, la quantit� d'eau
+qui va se d�verser dans les retenues avant d'alimenter les centrales
+hydro�lectriques. Et par ricochet, d'estimer les capacit�s de production de
+ces m�mes centrales.
+
+Une �valuation vitale, puisque, une fois produite, l'�lectricit� ne peut pas
+�tre stock�e. Si elles ne constituent que 15 % de la production annuelle
+fran�aise, les centrales hydro�lectriques pr�sentent l'avantage de pouvoir
+�tre mises en service automatiquement tr�s rapidement en cinq minutes. Un
+atout pour ajuster la production en temps r�el.
+
+Marion Guyonvarch
+� ARTICLE PARU DANS L'EDITION DU 25.02.04
+--------------------------------------------snip
+Here is an imperfect  translation:
+
+Thanks to solar neutrinos, EDF (Electricite de France) analyses the
+mountain snow cover.
+
+In snow-covered Pyrenees, a 6 meter high mast, equipped with thermal and
+ultrasound sensors, transpierces the snow. Its name : NRC (Cosmic Ray
+grader). Since october 2003, this weird apparatus, settled at 850 feet
+high, close to the hydroelectric power plant of Orlu, plays a key role in
+electricity management. It allows EDF to estimate with high accuracy the
+level of water reserves and therefore evaluate its hydroelectric reserves.
+
+The working principle is simple: "It computes the water content of the
+snow cover in order to predict how much water will end in dams at the
+time of snow melting" explains Guy Torrent, technical assistant at EDF
+headquarters. In the past, we used to compute the water content with gamma
+ray detectors. However, the radioactivity of Cesium 137 made the measure
+unreliable.
+
+Neutrinos emitted by the Sun are now the particles which are used to
+compute the water content. Part of these particles are absorbed by water
+molecules. A Geiger-Muller type of detector of half a meter squared area
+records how much radiation was not absorbed and determines that way how
+much quantity of water was crossed by Sun rays. Orlu's snow presently
+contains "410 liters of water per meter cube", indicates Guy Torrent. The
+apparatus also provides the density and snow thickness and allows one to
+predict the melting time. "When the  measured density reaches 0.55, we
+know that the process is irreversible and that snow is going to melt." he
+explains.
+
+Automatic and autonomous
+
+After two prototypes were installed in 1997, 40 of the new generation
+NRC's were put in place in French mountains. Completely automatic and
+autonomous thanks to solar sensors, they allow to collect data, precise
+at a 95 confidence level, in places which are difficult to access.
+Continuously recorded, this data is transmitted by satellite to the
+Prediction Center of Toulouse.
+Coupled to measurements of river flows and pluviometers, they allow the
+most precise prediction of the water quantity which is going to pour down
+into
+reserves before alimenting hydroelectric power plants, and finally
+allow an estimation of the production capabilities of these plants.
+
+This is a crucial evaluation since, once produced, electricity cannot be
+stored.
+
+While hydroeletric power plants provide only 15 percents of the French
+elecricity production, these plants have the advantage that they can be
+switched on extremely quickly, within 5 minutes. This is a real bonus
+allowing to adjust the production in real time.
+
