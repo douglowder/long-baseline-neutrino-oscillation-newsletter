@@ -52,29 +52,39 @@ const crawlAsync = async (url: string) => {
   console.log(`File path = ${filenameForUrl(url)}`);
   urlSet.add(url);
   const response = await axios.get(url);
-  const html: string = await response.data;
+  const data: string = await response.data;
   // urlMap.set(url, html);
-  await fs.writeFile(
-    path.join('.', 'site', filenameForUrl(url)),
-    sanitizeHtml(html),
-    {
-      encoding: 'utf-8',
-    },
-  );
+  if (!(url === rootUrl || url.endsWith('html'))) {
+    await fs.writeFile(path.join('.', 'site', filenameForUrl(url)), data, {
+      encoding: 'binary',
+    });
+    return;
+  }
+  const html = sanitizeHtml(data);
+  await fs.writeFile(path.join('.', 'site', filenameForUrl(url)), html, {
+    encoding: 'utf-8',
+  });
 
   const $ = cheerio.load(html);
   const children: string[] = [];
   $('html')
     .find('a[href]')
     .each((index, piece) => {
-      const childUrl = $(piece).attr('href');
-      // console.log(`childUrl = ${childUrl}`);
+      let childUrl = $(piece).attr('href');
+      if (!childUrl) {
+        return;
+      }
+      if (!(childUrl.startsWith('http') || childUrl.startsWith('www'))) {
+        childUrl = new URL(childUrl, `${rootUrl}/`).href;
+      }
       if (childUrl?.startsWith(rootUrl) && !urlSet.has(childUrl)) {
         children.push(childUrl);
       }
     });
   for (const childUrl of children) {
-    await crawlAsync(childUrl);
+    try {
+      await crawlAsync(childUrl);
+    } catch (e) {}
     await timeoutAsync(500);
   }
 };
