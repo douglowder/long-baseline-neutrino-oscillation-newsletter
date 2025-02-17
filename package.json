@@ -2,8 +2,8 @@
   "name": "long-baseline-neutrino-oscillation-newsletter",
   "main": "expo-router/entry",
   "version": "1.0.0",
-  "script": {
-    "deploy": "eas deploy --export-dir=site",
+  "scripts": {
+    "deploy": "./scripts/deploy.sh",
     "lint": "expo lint"
   },
   "jest": {
