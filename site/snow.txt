@@ -1,59 +1,59 @@
-Grï¿½ce aux neutrinos du soleil, EDF analyse le manteau neigeux
+Grýce aux neutrinos du soleil, EDF analyse le manteau neigeux
 LE MONDE | 24.02.04
 
-Orlu (Ariï¿½ge)de notre envoyï¿½e spï¿½ciale
+Orlu (Ariýge)de notre envoyýe spýciale
 
-Sur le versant pyrï¿½nï¿½en enneigï¿½, un mï¿½t de six mï¿½tres, bardï¿½ de capteurs
-ultrasons et thermiques, transperce la neige. Son nom : NRC, nivomï¿½tre ï¿½
-rayonnement cosmique. Depuis octobre 2003, ce drï¿½le d'appareil, plantï¿½ ï¿½ 2
-500 mï¿½tres d'altitude, surplombe la centrale hydroï¿½lectrique d'Orlu (Ariï¿½ge)
-et joue un rï¿½le central dans la gestion de l'ï¿½lectricitï¿½. Il permet ï¿½ EDF
-d'estimer au plus juste le remplissage des retenues d'eau et donc d'ï¿½valuer
-ses rï¿½serves hydroï¿½lectriques.
+Sur le versant pyrýnýen enneigý, un mýt de six mýtres, bardý de capteurs
+ultrasons et thermiques, transperce la neige. Son nom : NRC, nivomýtre ý
+rayonnement cosmique. Depuis octobre 2003, ce drýle d'appareil, plantý ý 2
+500 mýtres d'altitude, surplombe la centrale hydroýlectrique d'Orlu (Ariýge)
+et joue un rýle central dans la gestion de l'ýlectricitý. Il permet ý EDF
+d'estimer au plus juste le remplissage des retenues d'eau et donc d'ývaluer
+ses rýserves hydroýlectriques.
 
-Le principe du nivomï¿½tre est simple : "Il calcule la teneur en eau du
-manteau neigeux pour prï¿½voir quelles quantitï¿½s d'eau rejoindront les
+Le principe du nivomýtre est simple : "Il calcule la teneur en eau du
+manteau neigeux pour prývoir quelles quantitýs d'eau rejoindront les
 barrages au moment de la fonte des neiges", explique Guy Torrent, assistant
-technique ï¿½ la direction technique gï¿½nï¿½rale d'EDF. Auparavant, la teneur en
-eau ï¿½tait calculï¿½e grï¿½ce ï¿½ un ï¿½metteur de rayons gamma. Mais la
-radioactivitï¿½ du cï¿½sium 137 produisant ces derniers dï¿½passait ï¿½ peine celle
-de l'ï¿½mission naturelle, ce qui fragilisait la mesure.
+technique ý la direction technique gýnýrale d'EDF. Auparavant, la teneur en
+eau ýtait calculýe grýce ý un ýmetteur de rayons gamma. Mais la
+radioactivitý du cýsium 137 produisant ces derniers dýpassait ý peine celle
+de l'ýmission naturelle, ce qui fragilisait la mesure.
 
-Ce sont dï¿½sormais les neutrinos, les particules ï¿½mises par le soleil, qui
+Ce sont dýsormais les neutrinos, les particules ýmises par le soleil, qui
 permettent de calculer cette teneur en eau. Une partie de ces rayons sont
-absorbï¿½s par les molï¿½cules d'eau. Un capteur de type Geiger-Muller d'un
-demi-mï¿½tre carrï¿½ de surface enregistre le rayonnement cosmique non absorbï¿½
-et dï¿½termine ainsi la quantitï¿½ d'eau traversï¿½e par les rayons du soleil. La
-neige d'Orlu contient actuellement "410 litres d'eau par mï¿½tre cube",
-indique Guy Torrent. Le nivomï¿½tre fournit ï¿½galement des indications sur la
-densitï¿½ et la hauteur de neige et permet de prï¿½voir la fonte. "Lorsque la
-densitï¿½ mesurï¿½e atteint 0,55, on sait que le processus est irrï¿½versible et
+absorbýs par les molýcules d'eau. Un capteur de type Geiger-Muller d'un
+demi-mýtre carrý de surface enregistre le rayonnement cosmique non absorbý
+et dýtermine ainsi la quantitý d'eau traversýe par les rayons du soleil. La
+neige d'Orlu contient actuellement "410 litres d'eau par mýtre cube",
+indique Guy Torrent. Le nivomýtre fournit ýgalement des indications sur la
+densitý et la hauteur de neige et permet de prývoir la fonte. "Lorsque la
+densitý mesurýe atteint 0,55, on sait que le processus est irrýversible et
 que la neige va fondre", explique-t-il.
 
 AUTOMATIQUES ET AUTONOMES
 
-Aprï¿½s deux prototypes installï¿½s en 1997, quarante de ces nivomï¿½tres nouvelle
-gï¿½nï¿½ration ont ï¿½tï¿½ mis en place dans les massifs montagneux franï¿½ais.
-Complï¿½tement automatiques et autonomes grï¿½ce ï¿½ des capteurs solaires, ils
-permettent de recueillir des donnï¿½es, prï¿½cises ï¿½ 95 %, dans des lieux
-difficiles d'accï¿½s. Enregistrï¿½es en continu, elles sont transmises par
-satellite ou par relais tï¿½lï¿½phonique vers le centre de prï¿½visions de
+Aprýs deux prototypes installýs en 1997, quarante de ces nivomýtres nouvelle
+gýnýration ont ýtý mis en place dans les massifs montagneux franýais.
+Complýtement automatiques et autonomes grýce ý des capteurs solaires, ils
+permettent de recueillir des donnýes, prýcises ý 95 %, dans des lieux
+difficiles d'accýs. Enregistrýes en continu, elles sont transmises par
+satellite ou par relais týlýphonique vers le centre de prývisions de
 Toulouse.
 
-Couplï¿½es avec les mesures de dï¿½bit des riviï¿½res et les donnï¿½es des
-pluviomï¿½tres, elles permettent de prï¿½voir, au plus juste, la quantitï¿½ d'eau
-qui va se dï¿½verser dans les retenues avant d'alimenter les centrales
-hydroï¿½lectriques. Et par ricochet, d'estimer les capacitï¿½s de production de
-ces mï¿½mes centrales.
+Couplýes avec les mesures de dýbit des riviýres et les donnýes des
+pluviomýtres, elles permettent de prývoir, au plus juste, la quantitý d'eau
+qui va se dýverser dans les retenues avant d'alimenter les centrales
+hydroýlectriques. Et par ricochet, d'estimer les capacitýs de production de
+ces mýmes centrales.
 
-Une ï¿½valuation vitale, puisque, une fois produite, l'ï¿½lectricitï¿½ ne peut pas
-ï¿½tre stockï¿½e. Si elles ne constituent que 15 % de la production annuelle
-franï¿½aise, les centrales hydroï¿½lectriques prï¿½sentent l'avantage de pouvoir
-ï¿½tre mises en service automatiquement trï¿½s rapidement en cinq minutes. Un
-atout pour ajuster la production en temps rï¿½el.
+Une ývaluation vitale, puisque, une fois produite, l'ýlectricitý ne peut pas
+ýtre stockýe. Si elles ne constituent que 15 % de la production annuelle
+franýaise, les centrales hydroýlectriques prýsentent l'avantage de pouvoir
+ýtre mises en service automatiquement trýs rapidement en cinq minutes. Un
+atout pour ajuster la production en temps rýel.
 
 Marion Guyonvarch
-ï¿½ ARTICLE PARU DANS L'EDITION DU 25.02.04
+ý ARTICLE PARU DANS L'EDITION DU 25.02.04
 --------------------------------------------snip
 Here is an imperfect  translation:
 
