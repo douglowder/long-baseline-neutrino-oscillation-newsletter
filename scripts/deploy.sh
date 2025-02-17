@@ -1,3 +1,3 @@
 #!/bin/bash
 
-eas deploy --export-dir=site
+eas deploy --export-dir=site $@
